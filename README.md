@@ -1,2 +1,2 @@
-# personal_web
+# cricket_score
 Created with CodeSandbox
